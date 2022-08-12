@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HarmenBeldman
+- 👀 I’m interested in Architecture, Computational Design and Web Development
+- 🌱 I’m currently studying Architecture at the TU Delft
+- 📫 How to reach me: harmen.beldman@gmail.com
